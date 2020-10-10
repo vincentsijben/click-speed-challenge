@@ -2,4 +2,4 @@
 
 Simple mouse click challenge based on [clickspeedtest.com](https://clickspeedtest.com/).
 
-Play it [here]().
+Play it [here](https://vincentsijben.github.io/click-speed-challenge/).
