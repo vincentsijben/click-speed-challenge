@@ -33,7 +33,7 @@ function draw() {
             background(240);
             
             textAlign(CENTER);
-    fill(255);
+    fill(0);
     textSize(15);
     text(nf(elapsedTime, 2), width / 2, height / 2);
     textSize(40);
