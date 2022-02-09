@@ -24,6 +24,7 @@ function draw() {
         
         if (elapsedTime > 5000) {
             background("black");
+            fill(255);
             start = !start;
             let cps = clicks / 5;
             textSize(40);
